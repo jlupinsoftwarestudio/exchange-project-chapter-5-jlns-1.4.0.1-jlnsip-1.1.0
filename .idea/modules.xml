@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/common-pojo/common-pojo.iml" filepath="$PROJECT_DIR$/common-pojo/common-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-util/common-util.iml" filepath="$PROJECT_DIR$/common-util/common-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BusinessLogicLayer/currency-converter-business-logic/implementation/currency-converter-business-logic-implementation.iml" filepath="$PROJECT_DIR$/BusinessLogicLayer/currency-converter-business-logic/implementation/currency-converter-business-logic-implementation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BusinessLogicLayer/currency-converter-business-logic/interfaces/currency-converter-business-logic-interfaces.iml" filepath="$PROJECT_DIR$/BusinessLogicLayer/currency-converter-business-logic/interfaces/currency-converter-business-logic-interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AccessLayer/exchange-access/implementation/exchange-access-implementation.iml" filepath="$PROJECT_DIR$/AccessLayer/exchange-access/implementation/exchange-access-implementation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exchange-project.iml" filepath="$PROJECT_DIR$/exchange-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataLayer/exchange-rates-data/implementation/exchange-rates-data-implementation.iml" filepath="$PROJECT_DIR$/DataLayer/exchange-rates-data/implementation/exchange-rates-data-implementation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataLayer/exchange-rates-data/interfaces/exchange-rates-data-interfaces.iml" filepath="$PROJECT_DIR$/DataLayer/exchange-rates-data/interfaces/exchange-rates-data-interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/integration-test/integration-test.iml" filepath="$PROJECT_DIR$/integration-test/integration-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server/server.iml" filepath="$PROJECT_DIR$/server/server.iml" />
+    </modules>
+  </component>
+</project>

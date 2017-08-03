@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="common-pojo" />
+        <module name="common-util" />
+        <module name="currency-converter-business-logic-implementation" />
+        <module name="currency-converter-business-logic-interfaces" />
+        <module name="exchange-access-implementation" />
+        <module name="exchange-rates-data-implementation" />
+        <module name="exchange-rates-data-interfaces" />
+        <module name="integration-test" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="common-pojo" target="1.8" />
+      <module name="common-util" target="1.8" />
+      <module name="currency-converter-business-logic-implementation" target="1.8" />
+      <module name="currency-converter-business-logic-interfaces" target="1.8" />
+      <module name="exchange-access-implementation" target="1.6" />
+      <module name="exchange-project" target="1.8" />
+      <module name="exchange-rates-data-implementation" target="1.8" />
+      <module name="exchange-rates-data-interfaces" target="1.8" />
+      <module name="integration-test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
